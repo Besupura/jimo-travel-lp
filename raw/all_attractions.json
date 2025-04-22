@@ -1,0 +1,962 @@
+[
+  {
+    "name_en": "Shuri Castle",
+    "name_jp": "首里城",
+    "location": "Naha City",
+    "address": "1-2 Shurikinjocho, Naha",
+    "lat": 26.2172,
+    "lng": 127.719
+  },
+  {
+    "name_en": "Okinawa Churaumi Aquarium",
+    "name_jp": "沖縄美ら海水族館",
+    "location": "Motobu Town",
+    "address": "424 Ishikawa, Motobu",
+    "lat": 26.6941,
+    "lng": 127.878
+  },
+  {
+    "name_en": "Kokusai Street",
+    "name_jp": "国際通り",
+    "location": "Naha City",
+    "address": "Kokusai-dori, Naha",
+    "lat": 26.2144,
+    "lng": 127.6797
+  },
+  {
+    "name_en": "Ishigaki Island",
+    "name_jp": "石垣島",
+    "location": "Ishigaki City",
+    "address": "Ishigaki, Okinawa",
+    "lat": 24.4067,
+    "lng": 124.1647
+  },
+  {
+    "name_en": "Kabira Bay",
+    "name_jp": "川平湾",
+    "location": "Ishigaki City",
+    "address": "Kabira, Ishigaki",
+    "lat": 24.4526,
+    "lng": 124.1435
+  },
+  {
+    "name_en": "Iriomote Island",
+    "name_jp": "西表島",
+    "location": "Yaeyama District",
+    "address": "Iriomote, Yaeyama",
+    "lat": 24.39,
+    "lng": 123.81
+  },
+  {
+    "name_en": "Okinawa Attraction 1",
+    "name_jp": "沖縄の観光地 1",
+    "location": "Various Locations",
+    "address": "Address 1, Okinawa",
+    "lat": 26.01,
+    "lng": 127.01
+  },
+  {
+    "name_en": "Okinawa Attraction 2",
+    "name_jp": "沖縄の観光地 2",
+    "location": "Various Locations",
+    "address": "Address 2, Okinawa",
+    "lat": 26.02,
+    "lng": 127.02
+  },
+  {
+    "name_en": "Okinawa Attraction 3",
+    "name_jp": "沖縄の観光地 3",
+    "location": "Various Locations",
+    "address": "Address 3, Okinawa",
+    "lat": 26.03,
+    "lng": 127.03
+  },
+  {
+    "name_en": "Okinawa Attraction 4",
+    "name_jp": "沖縄の観光地 4",
+    "location": "Various Locations",
+    "address": "Address 4, Okinawa",
+    "lat": 26.04,
+    "lng": 127.04
+  },
+  {
+    "name_en": "Okinawa Attraction 5",
+    "name_jp": "沖縄の観光地 5",
+    "location": "Various Locations",
+    "address": "Address 5, Okinawa",
+    "lat": 26.05,
+    "lng": 127.05
+  },
+  {
+    "name_en": "Okinawa Attraction 6",
+    "name_jp": "沖縄の観光地 6",
+    "location": "Various Locations",
+    "address": "Address 6, Okinawa",
+    "lat": 26.06,
+    "lng": 127.06
+  },
+  {
+    "name_en": "Okinawa Attraction 7",
+    "name_jp": "沖縄の観光地 7",
+    "location": "Various Locations",
+    "address": "Address 7, Okinawa",
+    "lat": 26.07,
+    "lng": 127.07
+  },
+  {
+    "name_en": "Okinawa Attraction 8",
+    "name_jp": "沖縄の観光地 8",
+    "location": "Various Locations",
+    "address": "Address 8, Okinawa",
+    "lat": 26.08,
+    "lng": 127.08
+  },
+  {
+    "name_en": "Okinawa Attraction 9",
+    "name_jp": "沖縄の観光地 9",
+    "location": "Various Locations",
+    "address": "Address 9, Okinawa",
+    "lat": 26.09,
+    "lng": 127.09
+  },
+  {
+    "name_en": "Okinawa Attraction 10",
+    "name_jp": "沖縄の観光地 10",
+    "location": "Various Locations",
+    "address": "Address 10, Okinawa",
+    "lat": 26.1,
+    "lng": 127.1
+  },
+  {
+    "name_en": "Okinawa Attraction 11",
+    "name_jp": "沖縄の観光地 11",
+    "location": "Various Locations",
+    "address": "Address 11, Okinawa",
+    "lat": 26.11,
+    "lng": 127.11
+  },
+  {
+    "name_en": "Okinawa Attraction 12",
+    "name_jp": "沖縄の観光地 12",
+    "location": "Various Locations",
+    "address": "Address 12, Okinawa",
+    "lat": 26.12,
+    "lng": 127.12
+  },
+  {
+    "name_en": "Okinawa Attraction 13",
+    "name_jp": "沖縄の観光地 13",
+    "location": "Various Locations",
+    "address": "Address 13, Okinawa",
+    "lat": 26.13,
+    "lng": 127.13
+  },
+  {
+    "name_en": "Okinawa Attraction 14",
+    "name_jp": "沖縄の観光地 14",
+    "location": "Various Locations",
+    "address": "Address 14, Okinawa",
+    "lat": 26.14,
+    "lng": 127.14
+  },
+  {
+    "name_en": "Okinawa Attraction 15",
+    "name_jp": "沖縄の観光地 15",
+    "location": "Various Locations",
+    "address": "Address 15, Okinawa",
+    "lat": 26.15,
+    "lng": 127.15
+  },
+  {
+    "name_en": "Okinawa Attraction 16",
+    "name_jp": "沖縄の観光地 16",
+    "location": "Various Locations",
+    "address": "Address 16, Okinawa",
+    "lat": 26.16,
+    "lng": 127.16
+  },
+  {
+    "name_en": "Okinawa Attraction 17",
+    "name_jp": "沖縄の観光地 17",
+    "location": "Various Locations",
+    "address": "Address 17, Okinawa",
+    "lat": 26.17,
+    "lng": 127.17
+  },
+  {
+    "name_en": "Okinawa Attraction 18",
+    "name_jp": "沖縄の観光地 18",
+    "location": "Various Locations",
+    "address": "Address 18, Okinawa",
+    "lat": 26.18,
+    "lng": 127.18
+  },
+  {
+    "name_en": "Okinawa Attraction 19",
+    "name_jp": "沖縄の観光地 19",
+    "location": "Various Locations",
+    "address": "Address 19, Okinawa",
+    "lat": 26.19,
+    "lng": 127.19
+  },
+  {
+    "name_en": "Okinawa Attraction 20",
+    "name_jp": "沖縄の観光地 20",
+    "location": "Various Locations",
+    "address": "Address 20, Okinawa",
+    "lat": 26.2,
+    "lng": 127.2
+  },
+  {
+    "name_en": "Okinawa Attraction 21",
+    "name_jp": "沖縄の観光地 21",
+    "location": "Various Locations",
+    "address": "Address 21, Okinawa",
+    "lat": 26.21,
+    "lng": 127.21
+  },
+  {
+    "name_en": "Okinawa Attraction 22",
+    "name_jp": "沖縄の観光地 22",
+    "location": "Various Locations",
+    "address": "Address 22, Okinawa",
+    "lat": 26.22,
+    "lng": 127.22
+  },
+  {
+    "name_en": "Okinawa Attraction 23",
+    "name_jp": "沖縄の観光地 23",
+    "location": "Various Locations",
+    "address": "Address 23, Okinawa",
+    "lat": 26.23,
+    "lng": 127.23
+  },
+  {
+    "name_en": "Okinawa Attraction 24",
+    "name_jp": "沖縄の観光地 24",
+    "location": "Various Locations",
+    "address": "Address 24, Okinawa",
+    "lat": 26.24,
+    "lng": 127.24
+  },
+  {
+    "name_en": "Okinawa Attraction 25",
+    "name_jp": "沖縄の観光地 25",
+    "location": "Various Locations",
+    "address": "Address 25, Okinawa",
+    "lat": 26.25,
+    "lng": 127.25
+  },
+  {
+    "name_en": "Okinawa Attraction 26",
+    "name_jp": "沖縄の観光地 26",
+    "location": "Various Locations",
+    "address": "Address 26, Okinawa",
+    "lat": 26.26,
+    "lng": 127.26
+  },
+  {
+    "name_en": "Okinawa Attraction 27",
+    "name_jp": "沖縄の観光地 27",
+    "location": "Various Locations",
+    "address": "Address 27, Okinawa",
+    "lat": 26.27,
+    "lng": 127.27
+  },
+  {
+    "name_en": "Okinawa Attraction 28",
+    "name_jp": "沖縄の観光地 28",
+    "location": "Various Locations",
+    "address": "Address 28, Okinawa",
+    "lat": 26.28,
+    "lng": 127.28
+  },
+  {
+    "name_en": "Okinawa Attraction 29",
+    "name_jp": "沖縄の観光地 29",
+    "location": "Various Locations",
+    "address": "Address 29, Okinawa",
+    "lat": 26.29,
+    "lng": 127.29
+  },
+  {
+    "name_en": "Okinawa Attraction 30",
+    "name_jp": "沖縄の観光地 30",
+    "location": "Various Locations",
+    "address": "Address 30, Okinawa",
+    "lat": 26.3,
+    "lng": 127.3
+  },
+  {
+    "name_en": "Okinawa Attraction 31",
+    "name_jp": "沖縄の観光地 31",
+    "location": "Various Locations",
+    "address": "Address 31, Okinawa",
+    "lat": 26.31,
+    "lng": 127.31
+  },
+  {
+    "name_en": "Okinawa Attraction 32",
+    "name_jp": "沖縄の観光地 32",
+    "location": "Various Locations",
+    "address": "Address 32, Okinawa",
+    "lat": 26.32,
+    "lng": 127.32
+  },
+  {
+    "name_en": "Okinawa Attraction 33",
+    "name_jp": "沖縄の観光地 33",
+    "location": "Various Locations",
+    "address": "Address 33, Okinawa",
+    "lat": 26.33,
+    "lng": 127.33
+  },
+  {
+    "name_en": "Okinawa Attraction 34",
+    "name_jp": "沖縄の観光地 34",
+    "location": "Various Locations",
+    "address": "Address 34, Okinawa",
+    "lat": 26.34,
+    "lng": 127.34
+  },
+  {
+    "name_en": "Okinawa Attraction 35",
+    "name_jp": "沖縄の観光地 35",
+    "location": "Various Locations",
+    "address": "Address 35, Okinawa",
+    "lat": 26.35,
+    "lng": 127.35
+  },
+  {
+    "name_en": "Okinawa Attraction 36",
+    "name_jp": "沖縄の観光地 36",
+    "location": "Various Locations",
+    "address": "Address 36, Okinawa",
+    "lat": 26.36,
+    "lng": 127.36
+  },
+  {
+    "name_en": "Okinawa Attraction 37",
+    "name_jp": "沖縄の観光地 37",
+    "location": "Various Locations",
+    "address": "Address 37, Okinawa",
+    "lat": 26.37,
+    "lng": 127.37
+  },
+  {
+    "name_en": "Okinawa Attraction 38",
+    "name_jp": "沖縄の観光地 38",
+    "location": "Various Locations",
+    "address": "Address 38, Okinawa",
+    "lat": 26.38,
+    "lng": 127.38
+  },
+  {
+    "name_en": "Okinawa Attraction 39",
+    "name_jp": "沖縄の観光地 39",
+    "location": "Various Locations",
+    "address": "Address 39, Okinawa",
+    "lat": 26.39,
+    "lng": 127.39
+  },
+  {
+    "name_en": "Okinawa Attraction 40",
+    "name_jp": "沖縄の観光地 40",
+    "location": "Various Locations",
+    "address": "Address 40, Okinawa",
+    "lat": 26.4,
+    "lng": 127.4
+  },
+  {
+    "name_en": "Okinawa Attraction 41",
+    "name_jp": "沖縄の観光地 41",
+    "location": "Various Locations",
+    "address": "Address 41, Okinawa",
+    "lat": 26.41,
+    "lng": 127.41
+  },
+  {
+    "name_en": "Okinawa Attraction 42",
+    "name_jp": "沖縄の観光地 42",
+    "location": "Various Locations",
+    "address": "Address 42, Okinawa",
+    "lat": 26.42,
+    "lng": 127.42
+  },
+  {
+    "name_en": "Okinawa Attraction 43",
+    "name_jp": "沖縄の観光地 43",
+    "location": "Various Locations",
+    "address": "Address 43, Okinawa",
+    "lat": 26.43,
+    "lng": 127.43
+  },
+  {
+    "name_en": "Okinawa Attraction 44",
+    "name_jp": "沖縄の観光地 44",
+    "location": "Various Locations",
+    "address": "Address 44, Okinawa",
+    "lat": 26.44,
+    "lng": 127.44
+  },
+  {
+    "name_en": "Okinawa Attraction 45",
+    "name_jp": "沖縄の観光地 45",
+    "location": "Various Locations",
+    "address": "Address 45, Okinawa",
+    "lat": 26.45,
+    "lng": 127.45
+  },
+  {
+    "name_en": "Okinawa Attraction 46",
+    "name_jp": "沖縄の観光地 46",
+    "location": "Various Locations",
+    "address": "Address 46, Okinawa",
+    "lat": 26.46,
+    "lng": 127.46
+  },
+  {
+    "name_en": "Okinawa Attraction 47",
+    "name_jp": "沖縄の観光地 47",
+    "location": "Various Locations",
+    "address": "Address 47, Okinawa",
+    "lat": 26.47,
+    "lng": 127.47
+  },
+  {
+    "name_en": "Okinawa Attraction 48",
+    "name_jp": "沖縄の観光地 48",
+    "location": "Various Locations",
+    "address": "Address 48, Okinawa",
+    "lat": 26.48,
+    "lng": 127.48
+  },
+  {
+    "name_en": "Okinawa Attraction 49",
+    "name_jp": "沖縄の観光地 49",
+    "location": "Various Locations",
+    "address": "Address 49, Okinawa",
+    "lat": 26.49,
+    "lng": 127.49
+  },
+  {
+    "name_en": "Okinawa Attraction 50",
+    "name_jp": "沖縄の観光地 50",
+    "location": "Various Locations",
+    "address": "Address 50, Okinawa",
+    "lat": 26.5,
+    "lng": 127.5
+  },
+  {
+    "name_en": "Okinawa Attraction 51",
+    "name_jp": "沖縄の観光地 51",
+    "location": "Various Locations",
+    "address": "Address 51, Okinawa",
+    "lat": 26.51,
+    "lng": 127.51
+  },
+  {
+    "name_en": "Okinawa Attraction 52",
+    "name_jp": "沖縄の観光地 52",
+    "location": "Various Locations",
+    "address": "Address 52, Okinawa",
+    "lat": 26.52,
+    "lng": 127.52
+  },
+  {
+    "name_en": "Okinawa Attraction 53",
+    "name_jp": "沖縄の観光地 53",
+    "location": "Various Locations",
+    "address": "Address 53, Okinawa",
+    "lat": 26.53,
+    "lng": 127.53
+  },
+  {
+    "name_en": "Okinawa Attraction 54",
+    "name_jp": "沖縄の観光地 54",
+    "location": "Various Locations",
+    "address": "Address 54, Okinawa",
+    "lat": 26.54,
+    "lng": 127.54
+  },
+  {
+    "name_en": "Okinawa Attraction 55",
+    "name_jp": "沖縄の観光地 55",
+    "location": "Various Locations",
+    "address": "Address 55, Okinawa",
+    "lat": 26.55,
+    "lng": 127.55
+  },
+  {
+    "name_en": "Okinawa Attraction 56",
+    "name_jp": "沖縄の観光地 56",
+    "location": "Various Locations",
+    "address": "Address 56, Okinawa",
+    "lat": 26.56,
+    "lng": 127.56
+  },
+  {
+    "name_en": "Okinawa Attraction 57",
+    "name_jp": "沖縄の観光地 57",
+    "location": "Various Locations",
+    "address": "Address 57, Okinawa",
+    "lat": 26.57,
+    "lng": 127.57
+  },
+  {
+    "name_en": "Okinawa Attraction 58",
+    "name_jp": "沖縄の観光地 58",
+    "location": "Various Locations",
+    "address": "Address 58, Okinawa",
+    "lat": 26.58,
+    "lng": 127.58
+  },
+  {
+    "name_en": "Okinawa Attraction 59",
+    "name_jp": "沖縄の観光地 59",
+    "location": "Various Locations",
+    "address": "Address 59, Okinawa",
+    "lat": 26.59,
+    "lng": 127.59
+  },
+  {
+    "name_en": "Okinawa Attraction 60",
+    "name_jp": "沖縄の観光地 60",
+    "location": "Various Locations",
+    "address": "Address 60, Okinawa",
+    "lat": 26.6,
+    "lng": 127.6
+  },
+  {
+    "name_en": "Okinawa Attraction 61",
+    "name_jp": "沖縄の観光地 61",
+    "location": "Various Locations",
+    "address": "Address 61, Okinawa",
+    "lat": 26.61,
+    "lng": 127.61
+  },
+  {
+    "name_en": "Okinawa Attraction 62",
+    "name_jp": "沖縄の観光地 62",
+    "location": "Various Locations",
+    "address": "Address 62, Okinawa",
+    "lat": 26.62,
+    "lng": 127.62
+  },
+  {
+    "name_en": "Okinawa Attraction 63",
+    "name_jp": "沖縄の観光地 63",
+    "location": "Various Locations",
+    "address": "Address 63, Okinawa",
+    "lat": 26.63,
+    "lng": 127.63
+  },
+  {
+    "name_en": "Okinawa Attraction 64",
+    "name_jp": "沖縄の観光地 64",
+    "location": "Various Locations",
+    "address": "Address 64, Okinawa",
+    "lat": 26.64,
+    "lng": 127.64
+  },
+  {
+    "name_en": "Okinawa Attraction 65",
+    "name_jp": "沖縄の観光地 65",
+    "location": "Various Locations",
+    "address": "Address 65, Okinawa",
+    "lat": 26.65,
+    "lng": 127.65
+  },
+  {
+    "name_en": "Okinawa Attraction 66",
+    "name_jp": "沖縄の観光地 66",
+    "location": "Various Locations",
+    "address": "Address 66, Okinawa",
+    "lat": 26.66,
+    "lng": 127.66
+  },
+  {
+    "name_en": "Okinawa Attraction 67",
+    "name_jp": "沖縄の観光地 67",
+    "location": "Various Locations",
+    "address": "Address 67, Okinawa",
+    "lat": 26.67,
+    "lng": 127.67
+  },
+  {
+    "name_en": "Okinawa Attraction 68",
+    "name_jp": "沖縄の観光地 68",
+    "location": "Various Locations",
+    "address": "Address 68, Okinawa",
+    "lat": 26.68,
+    "lng": 127.68
+  },
+  {
+    "name_en": "Okinawa Attraction 69",
+    "name_jp": "沖縄の観光地 69",
+    "location": "Various Locations",
+    "address": "Address 69, Okinawa",
+    "lat": 26.69,
+    "lng": 127.69
+  },
+  {
+    "name_en": "Okinawa Attraction 70",
+    "name_jp": "沖縄の観光地 70",
+    "location": "Various Locations",
+    "address": "Address 70, Okinawa",
+    "lat": 26.7,
+    "lng": 127.7
+  },
+  {
+    "name_en": "Okinawa Attraction 71",
+    "name_jp": "沖縄の観光地 71",
+    "location": "Various Locations",
+    "address": "Address 71, Okinawa",
+    "lat": 26.71,
+    "lng": 127.71
+  },
+  {
+    "name_en": "Okinawa Attraction 72",
+    "name_jp": "沖縄の観光地 72",
+    "location": "Various Locations",
+    "address": "Address 72, Okinawa",
+    "lat": 26.72,
+    "lng": 127.72
+  },
+  {
+    "name_en": "Okinawa Attraction 73",
+    "name_jp": "沖縄の観光地 73",
+    "location": "Various Locations",
+    "address": "Address 73, Okinawa",
+    "lat": 26.73,
+    "lng": 127.73
+  },
+  {
+    "name_en": "Okinawa Attraction 74",
+    "name_jp": "沖縄の観光地 74",
+    "location": "Various Locations",
+    "address": "Address 74, Okinawa",
+    "lat": 26.74,
+    "lng": 127.74
+  },
+  {
+    "name_en": "Okinawa Attraction 75",
+    "name_jp": "沖縄の観光地 75",
+    "location": "Various Locations",
+    "address": "Address 75, Okinawa",
+    "lat": 26.75,
+    "lng": 127.75
+  },
+  {
+    "name_en": "Okinawa Attraction 76",
+    "name_jp": "沖縄の観光地 76",
+    "location": "Various Locations",
+    "address": "Address 76, Okinawa",
+    "lat": 26.76,
+    "lng": 127.76
+  },
+  {
+    "name_en": "Okinawa Attraction 77",
+    "name_jp": "沖縄の観光地 77",
+    "location": "Various Locations",
+    "address": "Address 77, Okinawa",
+    "lat": 26.77,
+    "lng": 127.77
+  },
+  {
+    "name_en": "Okinawa Attraction 78",
+    "name_jp": "沖縄の観光地 78",
+    "location": "Various Locations",
+    "address": "Address 78, Okinawa",
+    "lat": 26.78,
+    "lng": 127.78
+  },
+  {
+    "name_en": "Okinawa Attraction 79",
+    "name_jp": "沖縄の観光地 79",
+    "location": "Various Locations",
+    "address": "Address 79, Okinawa",
+    "lat": 26.79,
+    "lng": 127.79
+  },
+  {
+    "name_en": "Okinawa Attraction 80",
+    "name_jp": "沖縄の観光地 80",
+    "location": "Various Locations",
+    "address": "Address 80, Okinawa",
+    "lat": 26.8,
+    "lng": 127.8
+  },
+  {
+    "name_en": "Okinawa Attraction 81",
+    "name_jp": "沖縄の観光地 81",
+    "location": "Various Locations",
+    "address": "Address 81, Okinawa",
+    "lat": 26.81,
+    "lng": 127.81
+  },
+  {
+    "name_en": "Okinawa Attraction 82",
+    "name_jp": "沖縄の観光地 82",
+    "location": "Various Locations",
+    "address": "Address 82, Okinawa",
+    "lat": 26.82,
+    "lng": 127.82
+  },
+  {
+    "name_en": "Okinawa Attraction 83",
+    "name_jp": "沖縄の観光地 83",
+    "location": "Various Locations",
+    "address": "Address 83, Okinawa",
+    "lat": 26.83,
+    "lng": 127.83
+  },
+  {
+    "name_en": "Okinawa Attraction 84",
+    "name_jp": "沖縄の観光地 84",
+    "location": "Various Locations",
+    "address": "Address 84, Okinawa",
+    "lat": 26.84,
+    "lng": 127.84
+  },
+  {
+    "name_en": "Okinawa Attraction 85",
+    "name_jp": "沖縄の観光地 85",
+    "location": "Various Locations",
+    "address": "Address 85, Okinawa",
+    "lat": 26.85,
+    "lng": 127.85
+  },
+  {
+    "name_en": "Okinawa Attraction 86",
+    "name_jp": "沖縄の観光地 86",
+    "location": "Various Locations",
+    "address": "Address 86, Okinawa",
+    "lat": 26.86,
+    "lng": 127.86
+  },
+  {
+    "name_en": "Okinawa Attraction 87",
+    "name_jp": "沖縄の観光地 87",
+    "location": "Various Locations",
+    "address": "Address 87, Okinawa",
+    "lat": 26.87,
+    "lng": 127.87
+  },
+  {
+    "name_en": "Okinawa Attraction 88",
+    "name_jp": "沖縄の観光地 88",
+    "location": "Various Locations",
+    "address": "Address 88, Okinawa",
+    "lat": 26.88,
+    "lng": 127.88
+  },
+  {
+    "name_en": "Okinawa Attraction 89",
+    "name_jp": "沖縄の観光地 89",
+    "location": "Various Locations",
+    "address": "Address 89, Okinawa",
+    "lat": 26.89,
+    "lng": 127.89
+  },
+  {
+    "name_en": "Okinawa Attraction 90",
+    "name_jp": "沖縄の観光地 90",
+    "location": "Various Locations",
+    "address": "Address 90, Okinawa",
+    "lat": 26.9,
+    "lng": 127.9
+  },
+  {
+    "name_en": "Okinawa Attraction 91",
+    "name_jp": "沖縄の観光地 91",
+    "location": "Various Locations",
+    "address": "Address 91, Okinawa",
+    "lat": 26.91,
+    "lng": 127.91
+  },
+  {
+    "name_en": "Okinawa Attraction 92",
+    "name_jp": "沖縄の観光地 92",
+    "location": "Various Locations",
+    "address": "Address 92, Okinawa",
+    "lat": 26.92,
+    "lng": 127.92
+  },
+  {
+    "name_en": "Okinawa Attraction 93",
+    "name_jp": "沖縄の観光地 93",
+    "location": "Various Locations",
+    "address": "Address 93, Okinawa",
+    "lat": 26.93,
+    "lng": 127.93
+  },
+  {
+    "name_en": "Okinawa Attraction 94",
+    "name_jp": "沖縄の観光地 94",
+    "location": "Various Locations",
+    "address": "Address 94, Okinawa",
+    "lat": 26.94,
+    "lng": 127.94
+  },
+  {
+    "name_en": "Okinawa Attraction 95",
+    "name_jp": "沖縄の観光地 95",
+    "location": "Various Locations",
+    "address": "Address 95, Okinawa",
+    "lat": 26.95,
+    "lng": 127.95
+  },
+  {
+    "name_en": "Okinawa Attraction 96",
+    "name_jp": "沖縄の観光地 96",
+    "location": "Various Locations",
+    "address": "Address 96, Okinawa",
+    "lat": 26.96,
+    "lng": 127.96
+  },
+  {
+    "name_en": "Okinawa Attraction 97",
+    "name_jp": "沖縄の観光地 97",
+    "location": "Various Locations",
+    "address": "Address 97, Okinawa",
+    "lat": 26.97,
+    "lng": 127.97
+  },
+  {
+    "name_en": "Okinawa Attraction 98",
+    "name_jp": "沖縄の観光地 98",
+    "location": "Various Locations",
+    "address": "Address 98, Okinawa",
+    "lat": 26.98,
+    "lng": 127.98
+  },
+  {
+    "name_en": "Okinawa Attraction 99",
+    "name_jp": "沖縄の観光地 99",
+    "location": "Various Locations",
+    "address": "Address 99, Okinawa",
+    "lat": 26.99,
+    "lng": 127.99
+  },
+  {
+    "name_en": "Okinawa Attraction 100",
+    "name_jp": "沖縄の観光地 100",
+    "location": "Various Locations",
+    "address": "Address 100, Okinawa",
+    "lat": 27.0,
+    "lng": 128.0
+  },
+  {
+    "name_en": "Okinawa Attraction 101",
+    "name_jp": "沖縄の観光地 101",
+    "location": "Various Locations",
+    "address": "Address 101, Okinawa",
+    "lat": 27.01,
+    "lng": 128.01
+  },
+  {
+    "name_en": "Okinawa Attraction 102",
+    "name_jp": "沖縄の観光地 102",
+    "location": "Various Locations",
+    "address": "Address 102, Okinawa",
+    "lat": 27.02,
+    "lng": 128.02
+  },
+  {
+    "name_en": "Okinawa Attraction 103",
+    "name_jp": "沖縄の観光地 103",
+    "location": "Various Locations",
+    "address": "Address 103, Okinawa",
+    "lat": 27.03,
+    "lng": 128.03
+  },
+  {
+    "name_en": "Okinawa Attraction 104",
+    "name_jp": "沖縄の観光地 104",
+    "location": "Various Locations",
+    "address": "Address 104, Okinawa",
+    "lat": 27.04,
+    "lng": 128.04
+  },
+  {
+    "name_en": "Okinawa Attraction 105",
+    "name_jp": "沖縄の観光地 105",
+    "location": "Various Locations",
+    "address": "Address 105, Okinawa",
+    "lat": 27.05,
+    "lng": 128.05
+  },
+  {
+    "name_en": "Okinawa Attraction 106",
+    "name_jp": "沖縄の観光地 106",
+    "location": "Various Locations",
+    "address": "Address 106, Okinawa",
+    "lat": 27.06,
+    "lng": 128.06
+  },
+  {
+    "name_en": "Okinawa Attraction 107",
+    "name_jp": "沖縄の観光地 107",
+    "location": "Various Locations",
+    "address": "Address 107, Okinawa",
+    "lat": 27.07,
+    "lng": 128.07
+  },
+  {
+    "name_en": "Okinawa Attraction 108",
+    "name_jp": "沖縄の観光地 108",
+    "location": "Various Locations",
+    "address": "Address 108, Okinawa",
+    "lat": 27.08,
+    "lng": 128.08
+  },
+  {
+    "name_en": "Okinawa Attraction 109",
+    "name_jp": "沖縄の観光地 109",
+    "location": "Various Locations",
+    "address": "Address 109, Okinawa",
+    "lat": 27.09,
+    "lng": 128.09
+  },
+  {
+    "name_en": "Okinawa Attraction 110",
+    "name_jp": "沖縄の観光地 110",
+    "location": "Various Locations",
+    "address": "Address 110, Okinawa",
+    "lat": 27.1,
+    "lng": 128.1
+  },
+  {
+    "name_en": "Okinawa Attraction 111",
+    "name_jp": "沖縄の観光地 111",
+    "location": "Various Locations",
+    "address": "Address 111, Okinawa",
+    "lat": 27.11,
+    "lng": 128.11
+  },
+  {
+    "name_en": "Okinawa Attraction 112",
+    "name_jp": "沖縄の観光地 112",
+    "location": "Various Locations",
+    "address": "Address 112, Okinawa",
+    "lat": 27.12,
+    "lng": 128.12
+  },
+  {
+    "name_en": "Okinawa Attraction 113",
+    "name_jp": "沖縄の観光地 113",
+    "location": "Various Locations",
+    "address": "Address 113, Okinawa",
+    "lat": 27.13,
+    "lng": 128.13
+  },
+  {
+    "name_en": "Okinawa Attraction 114",
+    "name_jp": "沖縄の観光地 114",
+    "location": "Various Locations",
+    "address": "Address 114, Okinawa",
+    "lat": 27.14,
+    "lng": 128.14
+  }
+]

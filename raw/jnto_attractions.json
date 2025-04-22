@@ -1,0 +1,26 @@
+[
+  {
+    "name_en": "Shuri Castle",
+    "name_jp": "首里城",
+    "location": "Naha City",
+    "address": "1-2 Shurikinjocho, Naha",
+    "lat": 26.2172,
+    "lng": 127.719
+  },
+  {
+    "name_en": "Okinawa Churaumi Aquarium",
+    "name_jp": "沖縄美ら海水族館",
+    "location": "Motobu Town",
+    "address": "424 Ishikawa, Motobu",
+    "lat": 26.6941,
+    "lng": 127.878
+  },
+  {
+    "name_en": "Kokusai Street",
+    "name_jp": "国際通り",
+    "location": "Naha City",
+    "address": "Kokusai-dori, Naha",
+    "lat": 26.2144,
+    "lng": 127.6797
+  }
+]
