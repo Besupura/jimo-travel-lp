@@ -3,6 +3,8 @@
  * 
  * Features:
  * - Multi-language switching (JP, zh-TW, zh-CN, ko, en)
+ * - URL-based language switching (?lang=xx)
+ * - Automatic language detection based on browser language
  * - Lazy image loading
  * - Simple slider for testimonials
  */
@@ -16,7 +18,10 @@
   const nextButton = document.querySelector('.stories__control--next');
   const indicators = Array.from(document.querySelectorAll('.stories__indicator'));
   
-  let currentLanguage = 'jp';
+  const SUPPORTED_LANGUAGES = ['jp', 'en', 'zh-TW', 'zh-CN', 'ko'];
+  const DEFAULT_LANGUAGE = 'jp';
+  
+  let currentLanguage = DEFAULT_LANGUAGE;
   let currentSlide = 0;
   let translations = {};
   let isSliderAnimating = false;
@@ -25,8 +30,21 @@
    * Initialize the application
    */
   function init() {
-    loadLanguage(currentLanguage);
+    const urlLang = getLanguageFromUrl();
+    const browserLang = getBrowserLanguage();
     
+    if (urlLang) {
+      currentLanguage = urlLang;
+    } else if (browserLang) {
+      currentLanguage = browserLang;
+      updateUrlWithLanguage(browserLang);
+    }
+    
+    if (languageSelect) {
+      languageSelect.value = currentLanguage;
+    }
+    
+    loadLanguage(currentLanguage);
     setupEventListeners();
     
     if (storyCards.length > 0) {
@@ -34,6 +52,91 @@
     }
     
     setupLazyLoading();
+    
+    updateLanguageMetaTags(currentLanguage);
+  }
+  
+  /**
+   * Update HTML lang attribute and meta tags for language
+   * @param {string} lang - Language code
+   */
+  function updateLanguageMetaTags(lang) {
+    // Set HTML lang attribute
+    document.documentElement.lang = lang;
+    
+    const alternateLinks = document.querySelectorAll('link[rel="alternate"]');
+    alternateLinks.forEach(link => link.remove());
+    
+    SUPPORTED_LANGUAGES.forEach(supportedLang => {
+      const link = document.createElement('link');
+      link.rel = 'alternate';
+      link.hreflang = supportedLang === 'zh-TW' ? 'zh-Hant' : 
+                      supportedLang === 'zh-CN' ? 'zh-Hans' : 
+                      supportedLang === 'jp' ? 'ja' : supportedLang;
+      
+      const url = new URL(window.location.href);
+      url.searchParams.set('lang', supportedLang);
+      link.href = url.toString();
+      
+      document.head.appendChild(link);
+    });
+  }
+  
+  /**
+   * Set up event listeners
+   */
+  /**
+   * Get language from URL parameter
+   * @returns {string|null} Language code from URL or null if not found
+   */
+  function getLanguageFromUrl() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const langParam = urlParams.get('lang');
+    
+    if (langParam && SUPPORTED_LANGUAGES.includes(langParam)) {
+      return langParam;
+    }
+    
+    return null;
+  }
+  
+  /**
+   * Get language from browser settings
+   * @returns {string|null} Language code from browser or null if not supported
+   */
+  function getBrowserLanguage() {
+    const browserLang = navigator.language || navigator.userLanguage;
+    
+    if (browserLang) {
+      const langCode = browserLang.toLowerCase().substring(0, 2);
+      
+      if (langCode === 'ja' || langCode === 'jp') return 'jp';
+      if (langCode === 'en') return 'en';
+      if (langCode === 'ko') return 'ko';
+      
+      if (langCode === 'zh') {
+        if (browserLang.includes('TW') || browserLang.includes('HK') || browserLang.includes('MO')) {
+          return 'zh-TW';
+        } else {
+          return 'zh-CN';
+        }
+      }
+    }
+    
+    return null;
+  }
+  
+  /**
+   * Update URL with language parameter
+   * @param {string} lang - Language code
+   */
+  function updateUrlWithLanguage(lang) {
+    if (!lang || !SUPPORTED_LANGUAGES.includes(lang)) return;
+    
+    const url = new URL(window.location.href);
+    url.searchParams.set('lang', lang);
+    
+    window.history.replaceState({}, '', url.toString());
   }
   
   /**
@@ -42,7 +145,9 @@
   function setupEventListeners() {
     if (languageSelect) {
       languageSelect.addEventListener('change', function(e) {
-        loadLanguage(e.target.value);
+        const newLang = e.target.value;
+        loadLanguage(newLang);
+        updateUrlWithLanguage(newLang);
       });
     }
     
@@ -79,6 +184,12 @@
    * @param {string} lang - Language code
    */
   function loadLanguage(lang) {
+    // Validate language code
+    if (!SUPPORTED_LANGUAGES.includes(lang)) {
+      console.warn(`Unsupported language: ${lang}, falling back to ${DEFAULT_LANGUAGE}`);
+      lang = DEFAULT_LANGUAGE;
+    }
+    
     currentLanguage = lang;
     
     if (languageSelect) {
@@ -103,8 +214,8 @@
       })
       .catch(error => {
         console.error('Error loading language file:', error);
-        if (lang !== 'jp') {
-          loadLanguage('jp');
+        if (lang !== DEFAULT_LANGUAGE) {
+          loadLanguage(DEFAULT_LANGUAGE);
         }
       });
   }
