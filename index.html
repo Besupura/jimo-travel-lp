@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jimo Travel - 混雑を賢く避けて、沖縄をもっと快適に。">
+    <title>Jimo Travel - 沖縄観光アプリ</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <header class="header">
+        <div class="header__container container">
+            <div class="header__logo">
+                <img src="assets/img/logo.svg" alt="Jimo Travel" width="120" height="40">
+            </div>
+            <div class="header__language">
+                <label for="language-select" class="visually-hidden" data-i18n="languageSelector">言語を選択</label>
+                <select id="language-select" class="header__language-select">
+                    <option value="jp" data-i18n="japanese">日本語</option>
+                    <option value="zh-TW" data-i18n="traditionalChinese">繁體中文</option>
+                    <option value="zh-CN" data-i18n="simplifiedChinese">简体中文</option>
+                    <option value="ko" data-i18n="korean">한국어</option>
+                    <option value="en" data-i18n="english">English</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="hero" aria-labelledby="hero-title">
+            <div class="hero__container container">
+                <div class="hero__content">
+                    <h1 id="hero-title" class="hero__title" data-i18n="heroTitle">混雑を賢く避けて、沖縄をもっと快適に。</h1>
+                    <h2 class="hero__subtitle" data-i18n="heroSubtitle">地元だけが知る魅力と今だけお得をまるごと体験。</h2>
+                    <a href="#download" class="button button--primary hero__cta" data-i18n="ctaDownload">無料ダウンロード</a>
+                </div>
+                <div class="hero__image">
+                    <picture>
+                        <source srcset="assets/img/hero.webp" type="image/webp">
+                        <img src="assets/img/hero.jpg" alt="Jimo Travel App" width="600" height="400" loading="eager">
+                    </picture>
+                </div>
+            </div>
+        </section>
+
+        <!-- Benefits Section -->
+        <section class="benefits" aria-labelledby="benefits-title">
+            <div class="benefits__container container">
+                <h2 id="benefits-title" class="section-title visually-hidden">Benefits</h2>
+                <div class="benefits__grid">
+                    <!-- Family Benefit Card -->
+                    <div class="benefit-card">
+                        <div class="benefit-card__icon">
+                            <img src="assets/img/family-icon.svg" alt="" width="64" height="64" loading="lazy">
+                        </div>
+                        <h3 class="benefit-card__title" data-i18n="benefitFamilyTitle">ストレスゼロの家族旅</h3>
+                        <p class="benefit-card__description" data-i18n="benefitFamilyDesc">お子様連れでも安心。混雑を避けた穴場スポットと、家族で楽しめるアクティビティをご紹介。</p>
+                    </div>
+                    
+                    <!-- Young Benefit Card -->
+                    <div class="benefit-card">
+                        <div class="benefit-card__icon">
+                            <img src="assets/img/young-icon.svg" alt="" width="64" height="64" loading="lazy">
+                        </div>
+                        <h3 class="benefit-card__title" data-i18n="benefitYoungTitle">"映え"と発見を欲ばりに</h3>
+                        <p class="benefit-card__description" data-i18n="benefitYoungDesc">SNS映えする絶景スポットと地元の若者に人気のカフェ・バーを厳選してご紹介。</p>
+                    </div>
+                    
+                    <!-- Global Benefit Card -->
+                    <div class="benefit-card">
+                        <div class="benefit-card__icon">
+                            <img src="assets/img/global-icon.svg" alt="" width="64" height="64" loading="lazy">
+                        </div>
+                        <h3 class="benefit-card__title" data-i18n="benefitGlobalTitle">母国語で安心観光</h3>
+                        <p class="benefit-card__description" data-i18n="benefitGlobalDesc">5カ国語対応で言語の壁を解消。あなたの母国語でスムーズな沖縄観光をサポートします。</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Features Section -->
+        <section class="features" aria-labelledby="features-title">
+            <div class="features__container container">
+                <h2 id="features-title" class="section-title" data-i18n="featuresSectionTitle">Jimoの特徴</h2>
+                
+                <!-- Feature 1 -->
+                <div class="feature feature--right">
+                    <div class="feature__content">
+                        <h3 class="feature__title" data-i18n="feature1Title">リアルタイム混雑情報</h3>
+                        <p class="feature__description" data-i18n="feature1Desc">観光スポットやレストランの現在の混雑状況をリアルタイムで確認できます。</p>
+                    </div>
+                    <div class="feature__image">
+                        <picture>
+                            <source srcset="assets/img/feature1.webp" type="image/webp">
+                            <img src="assets/img/feature1.jpg" alt="リアルタイム混雑情報" width="500" height="300" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+                
+                <!-- Feature 2 -->
+                <div class="feature feature--left">
+                    <div class="feature__image">
+                        <picture>
+                            <source srcset="assets/img/feature2.webp" type="image/webp">
+                            <img src="assets/img/feature2.jpg" alt="地元限定クーポン" width="500" height="300" loading="lazy">
+                        </picture>
+                    </div>
+                    <div class="feature__content">
+                        <h3 class="feature__title" data-i18n="feature2Title">地元限定クーポン</h3>
+                        <p class="feature__description" data-i18n="feature2Desc">アプリ限定の特別割引クーポンで、食事やアクティビティをお得に楽しめます。</p>
+                    </div>
+                </div>
+                
+                <!-- Feature 3 -->
+                <div class="feature feature--right">
+                    <div class="feature__content">
+                        <h3 class="feature__title" data-i18n="feature3Title">オフラインマップ</h3>
+                        <p class="feature__description" data-i18n="feature3Desc">通信環境が不安定な場所でも安心して使えるオフラインマップ機能を搭載。</p>
+                    </div>
+                    <div class="feature__image">
+                        <picture>
+                            <source srcset="assets/img/feature3.webp" type="image/webp">
+                            <img src="assets/img/feature3.jpg" alt="オフラインマップ" width="500" height="300" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+                
+                <!-- Feature 4 -->
+                <div class="feature feature--left">
+                    <div class="feature__image">
+                        <picture>
+                            <source srcset="assets/img/feature4.webp" type="image/webp">
+                            <img src="assets/img/feature4.jpg" alt="パーソナライズされたおすすめ" width="500" height="300" loading="lazy">
+                        </picture>
+                    </div>
+                    <div class="feature__content">
+                        <h3 class="feature__title" data-i18n="feature4Title">パーソナライズされたおすすめ</h3>
+                        <p class="feature__description" data-i18n="feature4Desc">あなたの好みや旅行スタイルに合わせた、パーソナライズされた観光プランをご提案。</p>
+                    </div>
+                </div>
+                
+                <!-- Feature 5 -->
+                <div class="feature feature--right">
+                    <div class="feature__content">
+                        <h3 class="feature__title" data-i18n="feature5Title">多言語音声ガイド</h3>
+                        <p class="feature__description" data-i18n="feature5Desc">主要観光スポットでは、5カ国語対応の音声ガイドで詳しい解説が聞けます。</p>
+                    </div>
+                    <div class="feature__image">
+                        <picture>
+                            <source srcset="assets/img/feature5.webp" type="image/webp">
+                            <img src="assets/img/feature5.jpg" alt="多言語音声ガイド" width="500" height="300" loading="lazy">
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Story Slider Section -->
+        <section class="stories" aria-labelledby="stories-title">
+            <div class="stories__container container">
+                <h2 id="stories-title" class="section-title" data-i18n="storySliderTitle">利用者の声</h2>
+                
+                <div class="stories__slider" id="stories-slider">
+                    <!-- Story 1 -->
+                    <div class="story-card" aria-labelledby="story1-title">
+                        <div class="story-card__image">
+                            <picture>
+                                <source srcset="assets/img/story1.webp" type="image/webp">
+                                <img src="assets/img/story1.jpg" alt="" width="300" height="200" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="story-card__content">
+                            <h3 id="story1-title" class="story-card__title" data-i18n="story1Title">家族旅行が劇的に快適に</h3>
+                            <p class="story-card__quote" data-i18n="story1Desc">「以前は子供が飽きてしまう長い待ち時間が悩みでしたが、Jimoのおかげで待ち時間なしで効率的に観光できました。子供たちも大喜びです！」</p>
+                            <p class="story-card__author" data-i18n="story1Author">田中家 / 東京から</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Story 2 -->
+                    <div class="story-card" aria-labelledby="story2-title">
+                        <div class="story-card__image">
+                            <picture>
+                                <source srcset="assets/img/story2.webp" type="image/webp">
+                                <img src="assets/img/story2.jpg" alt="" width="300" height="200" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="story-card__content">
+                            <h3 id="story2-title" class="story-card__title" data-i18n="story2Title">地元の人しか知らない穴場を発見</h3>
+                            <p class="story-card__quote" data-i18n="story2Desc">「観光客であふれる定番スポットではなく、地元の人に人気の隠れた名所を教えてもらえて最高の旅になりました。SNSの投稿も大反響でした！」</p>
+                            <p class="story-card__author" data-i18n="story2Author">山田さん / 大阪から</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Story 3 -->
+                    <div class="story-card" aria-labelledby="story3-title">
+                        <div class="story-card__image">
+                            <picture>
+                                <source srcset="assets/img/story3.webp" type="image/webp">
+                                <img src="assets/img/story3.jpg" alt="" width="300" height="200" loading="lazy">
+                            </picture>
+                        </div>
+                        <div class="story-card__content">
+                            <h3 id="story3-title" class="story-card__title" data-i18n="story3Title">言語の壁を感じることなく旅行できました</h3>
+                            <p class="story-card__quote" data-i18n="story3Desc">「日本語がわからなくても、アプリのおかげで迷うことなく沖縄を楽しめました。現地の人とのコミュニケーションも取れて、忘れられない体験になりました。」</p>
+                            <p class="story-card__author" data-i18n="story3Author">リサ / アメリカから</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="stories__controls">
+                    <button class="stories__control stories__control--prev" aria-label="Previous story">
+                        <span aria-hidden="true">&#10094;</span>
+                    </button>
+                    <div class="stories__indicators">
+                        <button class="stories__indicator stories__indicator--active" aria-label="Story 1"></button>
+                        <button class="stories__indicator" aria-label="Story 2"></button>
+                        <button class="stories__indicator" aria-label="Story 3"></button>
+                    </div>
+                    <button class="stories__control stories__control--next" aria-label="Next story">
+                        <span aria-hidden="true">&#10095;</span>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trust Badges Section -->
+        <section class="trust" aria-labelledby="trust-title">
+            <div class="trust__container container">
+                <h2 id="trust-title" class="section-title" data-i18n="trustBadgesTitle">信頼の証</h2>
+                
+                <div class="trust__badges">
+                    <div class="trust-badge">
+                        <div class="trust-badge__icon">
+                            <img src="assets/img/download-icon.svg" alt="" width="48" height="48" loading="lazy">
+                        </div>
+                        <p class="trust-badge__text" data-i18n="downloadCount">10万ダウンロード突破</p>
+                    </div>
+                    
+                    <div class="trust-badge">
+                        <div class="trust-badge__icon">
+                            <img src="assets/img/star-icon.svg" alt="" width="48" height="48" loading="lazy">
+                        </div>
+                        <p class="trust-badge__text" data-i18n="appRating">App Store 4.8/5.0 (2,500件のレビュー)</p>
+                    </div>
+                    
+                    <div class="trust-badge">
+                        <div class="trust-badge__icon">
+                            <img src="assets/img/language-icon.svg" alt="" width="48" height="48" loading="lazy">
+                        </div>
+                        <p class="trust-badge__text" data-i18n="supportedLanguages">対応言語: 日本語・英語・繁體中文・简体中文・韓国語</p>
+                    </div>
+                    
+                    <div class="trust-badge">
+                        <div class="trust-badge__icon">
+                            <img src="assets/img/partner-icon.svg" alt="" width="48" height="48" loading="lazy">
+                        </div>
+                        <p class="trust-badge__text" data-i18n="officialPartner">沖縄観光コンベンションビューロー公認アプリ</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Bottom CTA Section -->
+        <section class="cta" id="download" aria-labelledby="cta-title">
+            <div class="cta__container container">
+                <h2 id="cta-title" class="cta__title" data-i18n="bottomCtaTitle">今すぐダウンロードして、新しい沖縄旅行を体験しよう</h2>
+                <p class="cta__subtitle" data-i18n="bottomCtaSubtitle">App StoreとGoogle Playで無料配信中</p>
+                
+                <div class="cta__buttons">
+                    <a href="#" class="cta__button cta__button--appstore">
+                        <img src="assets/img/app-store-badge.svg" alt="App Storeでダウンロード" width="180" height="60" loading="lazy">
+                        <span class="visually-hidden" data-i18n="appStoreButton">App Storeでダウンロード</span>
+                    </a>
+                    <a href="#" class="cta__button cta__button--googleplay">
+                        <img src="assets/img/google-play-badge.svg" alt="Google Playでダウンロード" width="180" height="60" loading="lazy">
+                        <span class="visually-hidden" data-i18n="googlePlayButton">Google Playでダウンロード</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer__container container">
+            <div class="footer__logo">
+                <img src="assets/img/logo-white.svg" alt="Jimo Travel" width="120" height="40" loading="lazy">
+            </div>
+            
+            <div class="footer__links">
+                <a href="#" class="footer__link" data-i18n="privacyPolicy">プライバシーポリシー</a>
+                <a href="#" class="footer__link" data-i18n="termsOfService">利用規約</a>
+                <a href="#" class="footer__link" data-i18n="contact">お問い合わせ</a>
+            </div>
+            
+            <div class="footer__social">
+                <a href="#" class="footer__social-link" aria-label="Twitter">
+                    <img src="assets/img/twitter-icon.svg" alt="" width="24" height="24" loading="lazy">
+                </a>
+                <a href="#" class="footer__social-link" aria-label="Instagram">
+                    <img src="assets/img/instagram-icon.svg" alt="" width="24" height="24" loading="lazy">
+                </a>
+                <a href="#" class="footer__social-link" aria-label="Facebook">
+                    <img src="assets/img/facebook-icon.svg" alt="" width="24" height="24" loading="lazy">
+                </a>
+                <a href="#" class="footer__social-link" aria-label="YouTube">
+                    <img src="assets/img/youtube-icon.svg" alt="" width="24" height="24" loading="lazy">
+                </a>
+            </div>
+            
+            <p class="footer__copyright" data-i18n="footerCopyright">© 2025 Jimo Travel. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
