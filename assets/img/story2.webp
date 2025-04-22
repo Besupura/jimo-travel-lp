@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#f5f5f5" />
+  <rect x="30" y="30" width="240" height="140" rx="10" fill="#1abc9c" opacity="0.7" />
+  <text x="150" y="100" font-family="Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#fff">Story ${i}</text>
+  <text x="150" y="130" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#fff">User Experience in Okinawa</text>
+</svg>

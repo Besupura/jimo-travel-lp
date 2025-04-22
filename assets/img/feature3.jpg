@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+  <rect width="500" height="300" fill="#f5f5f5" />
+  <rect x="50" y="50" width="400" height="200" rx="10" fill="#3498db" opacity="0.7" />
+  <text x="250" y="150" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#fff">Feature ${i}</text>
+  <text x="250" y="190" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#fff">Stylish Okinawa Travel Image</text>
+</svg>

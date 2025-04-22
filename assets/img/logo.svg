@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80">
+  <!-- Stylish Jimo Travel Logo -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3498db" />
+      <stop offset="100%" stop-color="#1abc9c" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="15" width="50" height="50" rx="10" fill="url(#gradient)" />
+  <text x="75" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#333">
+    JIMO
+  </text>
+  <text x="75" y="65" font-family="Arial, sans-serif" font-size="14" fill="#666">
+    TRAVEL
+  </text>
+  <path d="M25 30 L35 40 L45 30" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="35" cy="45" r="5" fill="white" />
+</svg>

@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <circle cx="50" cy="50" r="45" fill="#3498db" />
-  <text x="50" y="65" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="#ffffff">J</text>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3498db" />
+      <stop offset="100%" stop-color="#1abc9c" />
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="80" height="80" rx="20" fill="url(#gradient)" />
+  <path d="M30 40 L50 60 L70 40" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="50" cy="70" r="10" fill="white" />
 </svg>
