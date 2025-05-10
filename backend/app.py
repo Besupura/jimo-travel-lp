@@ -30,6 +30,7 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="api/auth/login")
 
 class TokenData(BaseModel):
     user_id: str
+    is_admin: bool = False
 
 class Token(BaseModel):
     access_token: str
@@ -44,6 +45,7 @@ class UserCreate(UserBase):
 
 class User(UserBase):
     id: str
+    is_admin: bool = False
     
     class Config:
         from_attributes = True
@@ -130,9 +132,19 @@ def init_db():
         "id": "user1",
         "email": "user@example.com",
         "display_name": "Demo User",
-        "password": "password"  # In MVP only, never store plain passwords in production
+        "password": "password",  # In MVP only, never store plain passwords in production
+        "is_admin": False
     }
     db["users"][sample_user["id"]] = sample_user
+    
+    admin_user = {
+        "id": "admin",
+        "email": "admin@example.com",
+        "display_name": "Administrator",
+        "password": "admin",  # In MVP only, never store plain passwords in production
+        "is_admin": True
+    }
+    db["users"][admin_user["id"]] = admin_user
     
     rally_id = "rally1"
     sample_rally = {
@@ -231,9 +243,10 @@ async def get_current_user(token: str = Depends(oauth2_scheme)):
     try:
         payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
         user_id: str = payload.get("sub")
+        is_admin: bool = payload.get("is_admin", False)
         if user_id is None:
             raise credentials_exception
-        token_data = TokenData(user_id=user_id)
+        token_data = TokenData(user_id=user_id, is_admin=is_admin)
     except JWTError:
         raise credentials_exception
     
@@ -241,6 +254,15 @@ async def get_current_user(token: str = Depends(oauth2_scheme)):
     if user is None:
         raise credentials_exception
     return user
+
+async def get_current_admin(current_user: dict = Depends(get_current_user)):
+    if not current_user.get("is_admin", False):
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Insufficient permissions",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+    return current_user
 
 
 def haversine_distance(lat1, lon1, lat2, lon2):
@@ -324,15 +346,36 @@ async def login(form_data: OAuth2PasswordRequestForm = Depends()):
             "id": user_id,
             "email": form_data.username,
             "display_name": form_data.username.split("@")[0],  # Use part before @ as display name
-            "password": form_data.password
+            "password": form_data.password,
+            "is_admin": False
         }
         db["users"][user_id] = user
     
     access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
     access_token = create_access_token(
-        data={"sub": user["id"]}, expires_delta=access_token_expires
+        data={"sub": user["id"], "is_admin": user.get("is_admin", False)}, 
+        expires_delta=access_token_expires
     )
     return {"access_token": access_token, "token_type": "bearer"}
+
+@app.post("/api/auth/admin/login", response_model=Token)
+async def admin_login(form_data: OAuth2PasswordRequestForm = Depends()):
+    """Admin login endpoint with predefined credentials for MVP."""
+    if form_data.username == "admin@example.com" and form_data.password == "admin":
+        user_id = "admin"
+        
+        access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+        access_token = create_access_token(
+            data={"sub": user_id, "is_admin": True}, 
+            expires_delta=access_token_expires
+        )
+        return {"access_token": access_token, "token_type": "bearer"}
+    
+    raise HTTPException(
+        status_code=status.HTTP_401_UNAUTHORIZED,
+        detail="Incorrect admin credentials",
+        headers={"WWW-Authenticate": "Bearer"},
+    )
 
 @app.get("/api/rallies", response_model=List[Rally])
 async def get_rallies():
