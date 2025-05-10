@@ -504,6 +504,51 @@ async def get_rally_progress(rally_id: str, current_user: dict = Depends(get_cur
         "checkpoints": user_progress
     }
 
+@app.get("/api/admin/rallies", response_model=List[Rally])
+async def admin_get_rallies(current_admin: dict = Depends(get_current_admin)):
+    """Get a list of all stamp rallies (admin only)."""
+    return list(db["rallies"].values())
+
+@app.post("/api/admin/rallies", response_model=Rally)
+async def admin_create_rally(rally: RallyBase, current_admin: dict = Depends(get_current_admin)):
+    """Create a new stamp rally (admin only)."""
+    rally_id = f"rally_{uuid4()}"
+    rally_data = rally.dict()
+    rally_data["id"] = rally_id
+    db["rallies"][rally_id] = rally_data
+    return rally_data
+
+@app.get("/api/admin/rallies/{rally_id}", response_model=Rally)
+async def admin_get_rally(rally_id: str, current_admin: dict = Depends(get_current_admin)):
+    """Get a specific stamp rally by ID (admin only)."""
+    if rally_id not in db["rallies"]:
+        raise HTTPException(status_code=404, detail="Rally not found")
+    return db["rallies"][rally_id]
+
+@app.put("/api/admin/rallies/{rally_id}", response_model=Rally)
+async def admin_update_rally(rally_id: str, rally: RallyBase, current_admin: dict = Depends(get_current_admin)):
+    """Update a specific stamp rally (admin only)."""
+    if rally_id not in db["rallies"]:
+        raise HTTPException(status_code=404, detail="Rally not found")
+    rally_data = rally.dict()
+    rally_data["id"] = rally_id
+    db["rallies"][rally_id] = rally_data
+    return rally_data
+
+@app.delete("/api/admin/rallies/{rally_id}", response_model=dict)
+async def admin_delete_rally(rally_id: str, current_admin: dict = Depends(get_current_admin)):
+    """Delete a specific stamp rally (admin only)."""
+    if rally_id not in db["rallies"]:
+        raise HTTPException(status_code=404, detail="Rally not found")
+    
+    checkpoints_to_delete = [cp_id for cp_id, cp in db["checkpoints"].items() if cp["rally_id"] == rally_id]
+    for cp_id in checkpoints_to_delete:
+        del db["checkpoints"][cp_id]
+    
+    del db["rallies"][rally_id]
+    
+    return {"message": "Rally and associated checkpoints deleted successfully"}
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
