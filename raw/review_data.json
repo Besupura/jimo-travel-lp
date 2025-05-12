@@ -1,0 +1,1810 @@
+{
+  "google_maps": {
+    "Shuri Castle": {
+      "review_count": 12500,
+      "average_rating": 4.5
+    },
+    "Okinawa Churaumi Aquarium": {
+      "review_count": 18200,
+      "average_rating": 4.7
+    },
+    "Kokusai Street": {
+      "review_count": 15800,
+      "average_rating": 4.2
+    },
+    "Ishigaki Island": {
+      "review_count": 9200,
+      "average_rating": 4.8
+    },
+    "Kabira Bay": {
+      "review_count": 7500,
+      "average_rating": 4.9
+    },
+    "Iriomote Island": {
+      "review_count": 6200,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 1": {
+      "review_count": 4524,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 2": {
+      "review_count": 4763,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 3": {
+      "review_count": 360,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 4": {
+      "review_count": 3509,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 5": {
+      "review_count": 1816,
+      "average_rating": 4.9
+    },
+    "Okinawa Attraction 6": {
+      "review_count": 4605,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 7": {
+      "review_count": 1622,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 8": {
+      "review_count": 2816,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 9": {
+      "review_count": 4403,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 10": {
+      "review_count": 3658,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 11": {
+      "review_count": 3072,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 12": {
+      "review_count": 2035,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 13": {
+      "review_count": 971,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 14": {
+      "review_count": 455,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 15": {
+      "review_count": 4153,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 16": {
+      "review_count": 814,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 17": {
+      "review_count": 203,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 18": {
+      "review_count": 1539,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 19": {
+      "review_count": 442,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 20": {
+      "review_count": 3298,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 21": {
+      "review_count": 4015,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 22": {
+      "review_count": 3138,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 23": {
+      "review_count": 2164,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 24": {
+      "review_count": 2612,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 25": {
+      "review_count": 4815,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 26": {
+      "review_count": 1509,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 27": {
+      "review_count": 2981,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 28": {
+      "review_count": 1772,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 29": {
+      "review_count": 3959,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 30": {
+      "review_count": 2061,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 31": {
+      "review_count": 877,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 32": {
+      "review_count": 3929,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 33": {
+      "review_count": 4930,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 34": {
+      "review_count": 2548,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 35": {
+      "review_count": 3900,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 36": {
+      "review_count": 196,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 37": {
+      "review_count": 3312,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 38": {
+      "review_count": 4283,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 39": {
+      "review_count": 334,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 40": {
+      "review_count": 4808,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 41": {
+      "review_count": 4055,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 42": {
+      "review_count": 297,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 43": {
+      "review_count": 410,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 44": {
+      "review_count": 2887,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 45": {
+      "review_count": 4465,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 46": {
+      "review_count": 1497,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 47": {
+      "review_count": 1348,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 48": {
+      "review_count": 2866,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 49": {
+      "review_count": 635,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 50": {
+      "review_count": 4362,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 51": {
+      "review_count": 4166,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 52": {
+      "review_count": 1869,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 53": {
+      "review_count": 926,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 54": {
+      "review_count": 2891,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 55": {
+      "review_count": 303,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 56": {
+      "review_count": 2073,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 57": {
+      "review_count": 968,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 58": {
+      "review_count": 3769,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 59": {
+      "review_count": 1250,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 60": {
+      "review_count": 2477,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 61": {
+      "review_count": 4708,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 62": {
+      "review_count": 1209,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 63": {
+      "review_count": 4434,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 64": {
+      "review_count": 4657,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 65": {
+      "review_count": 750,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 66": {
+      "review_count": 776,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 67": {
+      "review_count": 4399,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 68": {
+      "review_count": 3409,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 69": {
+      "review_count": 954,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 70": {
+      "review_count": 1482,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 71": {
+      "review_count": 2836,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 72": {
+      "review_count": 4880,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 73": {
+      "review_count": 2140,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 74": {
+      "review_count": 675,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 75": {
+      "review_count": 1389,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 76": {
+      "review_count": 4010,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 77": {
+      "review_count": 172,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 78": {
+      "review_count": 1629,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 79": {
+      "review_count": 2375,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 80": {
+      "review_count": 1731,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 81": {
+      "review_count": 1774,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 82": {
+      "review_count": 2325,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 83": {
+      "review_count": 4403,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 84": {
+      "review_count": 4598,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 85": {
+      "review_count": 2377,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 86": {
+      "review_count": 1476,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 87": {
+      "review_count": 1826,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 88": {
+      "review_count": 3290,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 89": {
+      "review_count": 4855,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 90": {
+      "review_count": 3128,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 91": {
+      "review_count": 2806,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 92": {
+      "review_count": 1270,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 93": {
+      "review_count": 2474,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 94": {
+      "review_count": 3439,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 95": {
+      "review_count": 645,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 96": {
+      "review_count": 375,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 97": {
+      "review_count": 2930,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 98": {
+      "review_count": 1454,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 99": {
+      "review_count": 4535,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 100": {
+      "review_count": 2905,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 101": {
+      "review_count": 3280,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 102": {
+      "review_count": 480,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 103": {
+      "review_count": 3424,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 104": {
+      "review_count": 3287,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 105": {
+      "review_count": 2618,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 106": {
+      "review_count": 1033,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 107": {
+      "review_count": 187,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 108": {
+      "review_count": 3636,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 109": {
+      "review_count": 3346,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 110": {
+      "review_count": 4402,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 111": {
+      "review_count": 257,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 112": {
+      "review_count": 3942,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 113": {
+      "review_count": 4310,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 114": {
+      "review_count": 3096,
+      "average_rating": 3.9
+    }
+  },
+  "tripadvisor": {
+    "Shuri Castle": {
+      "review_count": 8700,
+      "average_rating": 4.3
+    },
+    "Okinawa Churaumi Aquarium": {
+      "review_count": 12300,
+      "average_rating": 4.6
+    },
+    "Kokusai Street": {
+      "review_count": 9500,
+      "average_rating": 4.0
+    },
+    "Ishigaki Island": {
+      "review_count": 6800,
+      "average_rating": 4.7
+    },
+    "Kabira Bay": {
+      "review_count": 5200,
+      "average_rating": 4.8
+    },
+    "Iriomote Island": {
+      "review_count": 4100,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 1": {
+      "review_count": 2896,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 2": {
+      "review_count": 430,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 3": {
+      "review_count": 226,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 4": {
+      "review_count": 1054,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 5": {
+      "review_count": 2847,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 6": {
+      "review_count": 1783,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 7": {
+      "review_count": 263,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 8": {
+      "review_count": 919,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 9": {
+      "review_count": 2830,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 10": {
+      "review_count": 1503,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 11": {
+      "review_count": 1512,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 12": {
+      "review_count": 361,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 13": {
+      "review_count": 673,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 14": {
+      "review_count": 2895,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 15": {
+      "review_count": 2765,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 16": {
+      "review_count": 571,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 17": {
+      "review_count": 830,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 18": {
+      "review_count": 2946,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 19": {
+      "review_count": 1871,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 20": {
+      "review_count": 2954,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 21": {
+      "review_count": 1019,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 22": {
+      "review_count": 573,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 23": {
+      "review_count": 1420,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 24": {
+      "review_count": 1090,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 25": {
+      "review_count": 1957,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 26": {
+      "review_count": 1790,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 27": {
+      "review_count": 856,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 28": {
+      "review_count": 1448,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 29": {
+      "review_count": 2448,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 30": {
+      "review_count": 2344,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 31": {
+      "review_count": 1569,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 32": {
+      "review_count": 555,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 33": {
+      "review_count": 756,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 34": {
+      "review_count": 2699,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 35": {
+      "review_count": 400,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 36": {
+      "review_count": 2655,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 37": {
+      "review_count": 788,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 38": {
+      "review_count": 499,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 39": {
+      "review_count": 564,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 40": {
+      "review_count": 2103,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 41": {
+      "review_count": 1592,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 42": {
+      "review_count": 2329,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 43": {
+      "review_count": 387,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 44": {
+      "review_count": 1529,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 45": {
+      "review_count": 2060,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 46": {
+      "review_count": 2765,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 47": {
+      "review_count": 1359,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 48": {
+      "review_count": 575,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 49": {
+      "review_count": 1668,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 50": {
+      "review_count": 2131,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 51": {
+      "review_count": 879,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 52": {
+      "review_count": 2497,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 53": {
+      "review_count": 1367,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 54": {
+      "review_count": 119,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 55": {
+      "review_count": 382,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 56": {
+      "review_count": 2860,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 57": {
+      "review_count": 2592,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 58": {
+      "review_count": 2421,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 59": {
+      "review_count": 2765,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 60": {
+      "review_count": 2258,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 61": {
+      "review_count": 761,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 62": {
+      "review_count": 2628,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 63": {
+      "review_count": 1966,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 64": {
+      "review_count": 2154,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 65": {
+      "review_count": 2263,
+      "average_rating": 4.8
+    },
+    "Okinawa Attraction 66": {
+      "review_count": 1891,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 67": {
+      "review_count": 2009,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 68": {
+      "review_count": 1317,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 69": {
+      "review_count": 1844,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 70": {
+      "review_count": 211,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 71": {
+      "review_count": 1871,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 72": {
+      "review_count": 593,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 73": {
+      "review_count": 281,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 74": {
+      "review_count": 2046,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 75": {
+      "review_count": 1439,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 76": {
+      "review_count": 1794,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 77": {
+      "review_count": 1387,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 78": {
+      "review_count": 648,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 79": {
+      "review_count": 2994,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 80": {
+      "review_count": 891,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 81": {
+      "review_count": 2228,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 82": {
+      "review_count": 2680,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 83": {
+      "review_count": 1270,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 84": {
+      "review_count": 602,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 85": {
+      "review_count": 2118,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 86": {
+      "review_count": 445,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 87": {
+      "review_count": 1705,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 88": {
+      "review_count": 1809,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 89": {
+      "review_count": 1607,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 90": {
+      "review_count": 532,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 91": {
+      "review_count": 2241,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 92": {
+      "review_count": 245,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 93": {
+      "review_count": 521,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 94": {
+      "review_count": 2352,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 95": {
+      "review_count": 2154,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 96": {
+      "review_count": 1898,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 97": {
+      "review_count": 615,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 98": {
+      "review_count": 518,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 99": {
+      "review_count": 2935,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 100": {
+      "review_count": 172,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 101": {
+      "review_count": 1885,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 102": {
+      "review_count": 147,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 103": {
+      "review_count": 1494,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 104": {
+      "review_count": 1408,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 105": {
+      "review_count": 917,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 106": {
+      "review_count": 2605,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 107": {
+      "review_count": 2511,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 108": {
+      "review_count": 351,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 109": {
+      "review_count": 2718,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 110": {
+      "review_count": 2343,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 111": {
+      "review_count": 210,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 112": {
+      "review_count": 848,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 113": {
+      "review_count": 711,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 114": {
+      "review_count": 2716,
+      "average_rating": 3.7
+    }
+  },
+  "twitter": {
+    "Shuri Castle": {
+      "hashtag_count": 3200
+    },
+    "Okinawa Churaumi Aquarium": {
+      "hashtag_count": 5600
+    },
+    "Kokusai Street": {
+      "hashtag_count": 7800
+    },
+    "Ishigaki Island": {
+      "hashtag_count": 4500
+    },
+    "Kabira Bay": {
+      "hashtag_count": 3800
+    },
+    "Iriomote Island": {
+      "hashtag_count": 2900
+    },
+    "Okinawa Attraction 1": {
+      "hashtag_count": 1719
+    },
+    "Okinawa Attraction 2": {
+      "hashtag_count": 1887
+    },
+    "Okinawa Attraction 3": {
+      "hashtag_count": 1131
+    },
+    "Okinawa Attraction 4": {
+      "hashtag_count": 211
+    },
+    "Okinawa Attraction 5": {
+      "hashtag_count": 1583
+    },
+    "Okinawa Attraction 6": {
+      "hashtag_count": 1002
+    },
+    "Okinawa Attraction 7": {
+      "hashtag_count": 672
+    },
+    "Okinawa Attraction 8": {
+      "hashtag_count": 359
+    },
+    "Okinawa Attraction 9": {
+      "hashtag_count": 1774
+    },
+    "Okinawa Attraction 10": {
+      "hashtag_count": 1431
+    },
+    "Okinawa Attraction 11": {
+      "hashtag_count": 505
+    },
+    "Okinawa Attraction 12": {
+      "hashtag_count": 1698
+    },
+    "Okinawa Attraction 13": {
+      "hashtag_count": 573
+    },
+    "Okinawa Attraction 14": {
+      "hashtag_count": 1396
+    },
+    "Okinawa Attraction 15": {
+      "hashtag_count": 1701
+    },
+    "Okinawa Attraction 16": {
+      "hashtag_count": 1557
+    },
+    "Okinawa Attraction 17": {
+      "hashtag_count": 939
+    },
+    "Okinawa Attraction 18": {
+      "hashtag_count": 577
+    },
+    "Okinawa Attraction 19": {
+      "hashtag_count": 436
+    },
+    "Okinawa Attraction 20": {
+      "hashtag_count": 197
+    },
+    "Okinawa Attraction 21": {
+      "hashtag_count": 1976
+    },
+    "Okinawa Attraction 22": {
+      "hashtag_count": 372
+    },
+    "Okinawa Attraction 23": {
+      "hashtag_count": 577
+    },
+    "Okinawa Attraction 24": {
+      "hashtag_count": 1398
+    },
+    "Okinawa Attraction 25": {
+      "hashtag_count": 1242
+    },
+    "Okinawa Attraction 26": {
+      "hashtag_count": 1813
+    },
+    "Okinawa Attraction 27": {
+      "hashtag_count": 1312
+    },
+    "Okinawa Attraction 28": {
+      "hashtag_count": 290
+    },
+    "Okinawa Attraction 29": {
+      "hashtag_count": 1861
+    },
+    "Okinawa Attraction 30": {
+      "hashtag_count": 223
+    },
+    "Okinawa Attraction 31": {
+      "hashtag_count": 1564
+    },
+    "Okinawa Attraction 32": {
+      "hashtag_count": 265
+    },
+    "Okinawa Attraction 33": {
+      "hashtag_count": 1273
+    },
+    "Okinawa Attraction 34": {
+      "hashtag_count": 1092
+    },
+    "Okinawa Attraction 35": {
+      "hashtag_count": 164
+    },
+    "Okinawa Attraction 36": {
+      "hashtag_count": 690
+    },
+    "Okinawa Attraction 37": {
+      "hashtag_count": 716
+    },
+    "Okinawa Attraction 38": {
+      "hashtag_count": 141
+    },
+    "Okinawa Attraction 39": {
+      "hashtag_count": 534
+    },
+    "Okinawa Attraction 40": {
+      "hashtag_count": 1313
+    },
+    "Okinawa Attraction 41": {
+      "hashtag_count": 1240
+    },
+    "Okinawa Attraction 42": {
+      "hashtag_count": 388
+    },
+    "Okinawa Attraction 43": {
+      "hashtag_count": 1961
+    },
+    "Okinawa Attraction 44": {
+      "hashtag_count": 1036
+    },
+    "Okinawa Attraction 45": {
+      "hashtag_count": 258
+    },
+    "Okinawa Attraction 46": {
+      "hashtag_count": 712
+    },
+    "Okinawa Attraction 47": {
+      "hashtag_count": 1478
+    },
+    "Okinawa Attraction 48": {
+      "hashtag_count": 783
+    },
+    "Okinawa Attraction 49": {
+      "hashtag_count": 55
+    },
+    "Okinawa Attraction 50": {
+      "hashtag_count": 346
+    },
+    "Okinawa Attraction 51": {
+      "hashtag_count": 1654
+    },
+    "Okinawa Attraction 52": {
+      "hashtag_count": 1292
+    },
+    "Okinawa Attraction 53": {
+      "hashtag_count": 394
+    },
+    "Okinawa Attraction 54": {
+      "hashtag_count": 595
+    },
+    "Okinawa Attraction 55": {
+      "hashtag_count": 1797
+    },
+    "Okinawa Attraction 56": {
+      "hashtag_count": 1579
+    },
+    "Okinawa Attraction 57": {
+      "hashtag_count": 626
+    },
+    "Okinawa Attraction 58": {
+      "hashtag_count": 851
+    },
+    "Okinawa Attraction 59": {
+      "hashtag_count": 1400
+    },
+    "Okinawa Attraction 60": {
+      "hashtag_count": 1867
+    },
+    "Okinawa Attraction 61": {
+      "hashtag_count": 650
+    },
+    "Okinawa Attraction 62": {
+      "hashtag_count": 1276
+    },
+    "Okinawa Attraction 63": {
+      "hashtag_count": 1684
+    },
+    "Okinawa Attraction 64": {
+      "hashtag_count": 46
+    },
+    "Okinawa Attraction 65": {
+      "hashtag_count": 1291
+    },
+    "Okinawa Attraction 66": {
+      "hashtag_count": 167
+    },
+    "Okinawa Attraction 67": {
+      "hashtag_count": 803
+    },
+    "Okinawa Attraction 68": {
+      "hashtag_count": 627
+    },
+    "Okinawa Attraction 69": {
+      "hashtag_count": 572
+    },
+    "Okinawa Attraction 70": {
+      "hashtag_count": 1341
+    },
+    "Okinawa Attraction 71": {
+      "hashtag_count": 1990
+    },
+    "Okinawa Attraction 72": {
+      "hashtag_count": 1692
+    },
+    "Okinawa Attraction 73": {
+      "hashtag_count": 424
+    },
+    "Okinawa Attraction 74": {
+      "hashtag_count": 750
+    },
+    "Okinawa Attraction 75": {
+      "hashtag_count": 1461
+    },
+    "Okinawa Attraction 76": {
+      "hashtag_count": 767
+    },
+    "Okinawa Attraction 77": {
+      "hashtag_count": 916
+    },
+    "Okinawa Attraction 78": {
+      "hashtag_count": 1823
+    },
+    "Okinawa Attraction 79": {
+      "hashtag_count": 467
+    },
+    "Okinawa Attraction 80": {
+      "hashtag_count": 1634
+    },
+    "Okinawa Attraction 81": {
+      "hashtag_count": 880
+    },
+    "Okinawa Attraction 82": {
+      "hashtag_count": 1748
+    },
+    "Okinawa Attraction 83": {
+      "hashtag_count": 1711
+    },
+    "Okinawa Attraction 84": {
+      "hashtag_count": 151
+    },
+    "Okinawa Attraction 85": {
+      "hashtag_count": 1846
+    },
+    "Okinawa Attraction 86": {
+      "hashtag_count": 1463
+    },
+    "Okinawa Attraction 87": {
+      "hashtag_count": 852
+    },
+    "Okinawa Attraction 88": {
+      "hashtag_count": 1886
+    },
+    "Okinawa Attraction 89": {
+      "hashtag_count": 349
+    },
+    "Okinawa Attraction 90": {
+      "hashtag_count": 15
+    },
+    "Okinawa Attraction 91": {
+      "hashtag_count": 535
+    },
+    "Okinawa Attraction 92": {
+      "hashtag_count": 686
+    },
+    "Okinawa Attraction 93": {
+      "hashtag_count": 1019
+    },
+    "Okinawa Attraction 94": {
+      "hashtag_count": 1162
+    },
+    "Okinawa Attraction 95": {
+      "hashtag_count": 884
+    },
+    "Okinawa Attraction 96": {
+      "hashtag_count": 1987
+    },
+    "Okinawa Attraction 97": {
+      "hashtag_count": 186
+    },
+    "Okinawa Attraction 98": {
+      "hashtag_count": 1569
+    },
+    "Okinawa Attraction 99": {
+      "hashtag_count": 294
+    },
+    "Okinawa Attraction 100": {
+      "hashtag_count": 1967
+    },
+    "Okinawa Attraction 101": {
+      "hashtag_count": 1506
+    },
+    "Okinawa Attraction 102": {
+      "hashtag_count": 330
+    },
+    "Okinawa Attraction 103": {
+      "hashtag_count": 604
+    },
+    "Okinawa Attraction 104": {
+      "hashtag_count": 1926
+    },
+    "Okinawa Attraction 105": {
+      "hashtag_count": 407
+    },
+    "Okinawa Attraction 106": {
+      "hashtag_count": 1971
+    },
+    "Okinawa Attraction 107": {
+      "hashtag_count": 1387
+    },
+    "Okinawa Attraction 108": {
+      "hashtag_count": 504
+    },
+    "Okinawa Attraction 109": {
+      "hashtag_count": 1497
+    },
+    "Okinawa Attraction 110": {
+      "hashtag_count": 1797
+    },
+    "Okinawa Attraction 111": {
+      "hashtag_count": 516
+    },
+    "Okinawa Attraction 112": {
+      "hashtag_count": 140
+    },
+    "Okinawa Attraction 113": {
+      "hashtag_count": 380
+    },
+    "Okinawa Attraction 114": {
+      "hashtag_count": 678
+    }
+  },
+  "tabelog": {
+    "Shuri Castle": {
+      "review_count": 450,
+      "average_rating": 4.1
+    },
+    "Okinawa Churaumi Aquarium": {
+      "review_count": 820,
+      "average_rating": 4.4
+    },
+    "Kokusai Street": {
+      "review_count": 1250,
+      "average_rating": 3.9
+    },
+    "Ishigaki Island": {
+      "review_count": 680,
+      "average_rating": 4.5
+    },
+    "Kabira Bay": {
+      "review_count": 420,
+      "average_rating": 4.6
+    },
+    "Iriomote Island": {
+      "review_count": 350,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 1": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 2": {
+      "review_count": 734,
+      "average_rating": 3.2
+    },
+    "Okinawa Attraction 3": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 4": {
+      "review_count": 179,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 5": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 6": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 7": {
+      "review_count": 442,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 8": {
+      "review_count": 98,
+      "average_rating": 3.1
+    },
+    "Okinawa Attraction 9": {
+      "review_count": 180,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 10": {
+      "review_count": 505,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 11": {
+      "review_count": 736,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 12": {
+      "review_count": 264,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 13": {
+      "review_count": 184,
+      "average_rating": 3.1
+    },
+    "Okinawa Attraction 14": {
+      "review_count": 599,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 15": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 16": {
+      "review_count": 691,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 17": {
+      "review_count": 350,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 18": {
+      "review_count": 19,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 19": {
+      "review_count": 247,
+      "average_rating": 3.3
+    },
+    "Okinawa Attraction 20": {
+      "review_count": 279,
+      "average_rating": 4.5
+    },
+    "Okinawa Attraction 21": {
+      "review_count": 656,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 22": {
+      "review_count": 656,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 23": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 24": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 25": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 26": {
+      "review_count": 345,
+      "average_rating": 3.2
+    },
+    "Okinawa Attraction 27": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 28": {
+      "review_count": 774,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 29": {
+      "review_count": 110,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 30": {
+      "review_count": 179,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 31": {
+      "review_count": 504,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 32": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 33": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 34": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 35": {
+      "review_count": 518,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 36": {
+      "review_count": 631,
+      "average_rating": 4.2
+    },
+    "Okinawa Attraction 37": {
+      "review_count": 524,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 38": {
+      "review_count": 173,
+      "average_rating": 3.1
+    },
+    "Okinawa Attraction 39": {
+      "review_count": 506,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 40": {
+      "review_count": 634,
+      "average_rating": 4.1
+    },
+    "Okinawa Attraction 41": {
+      "review_count": 221,
+      "average_rating": 3.3
+    },
+    "Okinawa Attraction 42": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 43": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 44": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 45": {
+      "review_count": 49,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 46": {
+      "review_count": 164,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 47": {
+      "review_count": 407,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 48": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 49": {
+      "review_count": 717,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 50": {
+      "review_count": 24,
+      "average_rating": 3.2
+    },
+    "Okinawa Attraction 51": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 52": {
+      "review_count": 304,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 53": {
+      "review_count": 715,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 54": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 55": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 56": {
+      "review_count": 196,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 57": {
+      "review_count": 388,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 58": {
+      "review_count": 51,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 59": {
+      "review_count": 380,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 60": {
+      "review_count": 691,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 61": {
+      "review_count": 416,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 62": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 63": {
+      "review_count": 670,
+      "average_rating": 3.1
+    },
+    "Okinawa Attraction 64": {
+      "review_count": 390,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 65": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 66": {
+      "review_count": 295,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 67": {
+      "review_count": 738,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 68": {
+      "review_count": 408,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 69": {
+      "review_count": 75,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 70": {
+      "review_count": 225,
+      "average_rating": 3.5
+    },
+    "Okinawa Attraction 71": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 72": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 73": {
+      "review_count": 47,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 74": {
+      "review_count": 498,
+      "average_rating": 3.2
+    },
+    "Okinawa Attraction 75": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 76": {
+      "review_count": 237,
+      "average_rating": 3.1
+    },
+    "Okinawa Attraction 77": {
+      "review_count": 246,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 78": {
+      "review_count": 611,
+      "average_rating": 3.9
+    },
+    "Okinawa Attraction 79": {
+      "review_count": 167,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 80": {
+      "review_count": 32,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 81": {
+      "review_count": 564,
+      "average_rating": 3.1
+    },
+    "Okinawa Attraction 82": {
+      "review_count": 137,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 83": {
+      "review_count": 759,
+      "average_rating": 3.3
+    },
+    "Okinawa Attraction 84": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 85": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 86": {
+      "review_count": 722,
+      "average_rating": 3.3
+    },
+    "Okinawa Attraction 87": {
+      "review_count": 387,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 88": {
+      "review_count": 750,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 89": {
+      "review_count": 300,
+      "average_rating": 3.3
+    },
+    "Okinawa Attraction 90": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 91": {
+      "review_count": 73,
+      "average_rating": 3.3
+    },
+    "Okinawa Attraction 92": {
+      "review_count": 563,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 93": {
+      "review_count": 754,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 94": {
+      "review_count": 234,
+      "average_rating": 4.6
+    },
+    "Okinawa Attraction 95": {
+      "review_count": 560,
+      "average_rating": 3.2
+    },
+    "Okinawa Attraction 96": {
+      "review_count": 10,
+      "average_rating": 4.7
+    },
+    "Okinawa Attraction 97": {
+      "review_count": 130,
+      "average_rating": 4.4
+    },
+    "Okinawa Attraction 98": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 99": {
+      "review_count": 147,
+      "average_rating": 3.8
+    },
+    "Okinawa Attraction 100": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 101": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 102": {
+      "review_count": 766,
+      "average_rating": 4.0
+    },
+    "Okinawa Attraction 103": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 104": {
+      "review_count": 367,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 105": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 106": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 107": {
+      "review_count": 503,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 108": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 109": {
+      "review_count": 124,
+      "average_rating": 3.7
+    },
+    "Okinawa Attraction 110": {
+      "review_count": 632,
+      "average_rating": 4.3
+    },
+    "Okinawa Attraction 111": {
+      "review_count": 226,
+      "average_rating": 3.3
+    },
+    "Okinawa Attraction 112": {
+      "review_count": 0,
+      "average_rating": 0
+    },
+    "Okinawa Attraction 113": {
+      "review_count": 267,
+      "average_rating": 3.6
+    },
+    "Okinawa Attraction 114": {
+      "review_count": 734,
+      "average_rating": 4.3
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "Shuri Castle": {
+    "annual_visitors": 2800000,
+    "year": 2023,
+    "source_url": "https://www.pref.okinawa.jp/site/bunka-sports/kankoseisaku/kikaku/statistics/tourism/tourists.html",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Okinawa Churaumi Aquarium": {
+    "annual_visitors": 3100000,
+    "year": 2023,
+    "source_url": "https://churaumi.okinawa/en/about/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Kokusai Street": {
+    "annual_visitors": 4200000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Ishigaki Island": {
+    "annual_visitors": 1200000,
+    "year": 2023,
+    "source_url": "https://www.yaeyama-tourism.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Kabira Bay": {
+    "annual_visitors": 950000,
+    "year": 2023,
+    "source_url": "https://www.yaeyama-tourism.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Iriomote Island": {
+    "annual_visitors": 420000,
+    "year": 2023,
+    "source_url": "https://www.yaeyama-tourism.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Miyako Island": {
+    "annual_visitors": 550000,
+    "year": 2023,
+    "source_url": "https://www.miyakojima-tourism.or.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Kouri Island": {
+    "annual_visitors": 800000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Cape Manzamo": {
+    "annual_visitors": 1100000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "American Village": {
+    "annual_visitors": 2500000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Okinawa World": {
+    "annual_visitors": 1300000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Gyokusendo Cave": {
+    "annual_visitors": 900000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Nakagusuku Castle Ruins": {
+    "annual_visitors": 350000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Nakijin Castle Ruins": {
+    "annual_visitors": 320000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Katsuren Castle Ruins": {
+    "annual_visitors": 180000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Zakimi Castle Ruins": {
+    "annual_visitors": 150000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Tamaudun": {
+    "annual_visitors": 280000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Sefa-utaki": {
+    "annual_visitors": 210000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Shikinaen Garden": {
+    "annual_visitors": 190000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Fukushu-en Garden": {
+    "annual_visitors": 160000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Okinawa Peace Memorial Park": {
+    "annual_visitors": 750000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Himeyuri Peace Museum": {
+    "annual_visitors": 520000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Naminoue Shrine": {
+    "annual_visitors": 380000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Tsuboya Pottery Street": {
+    "annual_visitors": 250000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Makishi Public Market": {
+    "annual_visitors": 1800000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Okinawa Prefectural Museum": {
+    "annual_visitors": 420000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Bise Fukugi Tree Road": {
+    "annual_visitors": 310000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Ocean Expo Park": {
+    "annual_visitors": 2900000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Tropical Dream Center": {
+    "annual_visitors": 480000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Native Okinawan Village": {
+    "annual_visitors": 350000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Blue Cave": {
+    "annual_visitors": 650000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Ryukyu Mura": {
+    "annual_visitors": 580000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Maeda Point": {
+    "annual_visitors": 420000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Tiger Beach": {
+    "annual_visitors": 280000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Sunayama Beach": {
+    "annual_visitors": 320000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Higashi-Hennazaki Cape": {
+    "annual_visitors": 180000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Irabu Bridge": {
+    "annual_visitors": 250000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Toguchi Beach": {
+    "annual_visitors": 150000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Miyako Island Sea Turtle Museum": {
+    "annual_visitors": 280000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Ishigaki Yaima Village": {
+    "annual_visitors": 320000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Tamatorizaki Observatory": {
+    "annual_visitors": 180000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Shiraho Coral Reef": {
+    "annual_visitors": 150000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Fusaki Beach": {
+    "annual_visitors": 220000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Banna Park": {
+    "annual_visitors": 180000,
+    "year": 2023,
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  }
+}

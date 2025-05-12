@@ -1,0 +1,26 @@
+[
+  {
+    "name_en": "Ishigaki Island",
+    "name_jp": "石垣島",
+    "location": "Ishigaki City",
+    "address": "Ishigaki, Okinawa",
+    "lat": 24.4067,
+    "lng": 124.1647
+  },
+  {
+    "name_en": "Kabira Bay",
+    "name_jp": "川平湾",
+    "location": "Ishigaki City",
+    "address": "Kabira, Ishigaki",
+    "lat": 24.4526,
+    "lng": 124.1435
+  },
+  {
+    "name_en": "Iriomote Island",
+    "name_jp": "西表島",
+    "location": "Yaeyama District",
+    "address": "Iriomote, Yaeyama",
+    "lat": 24.39,
+    "lng": 123.81
+  }
+]

@@ -1,0 +1,1682 @@
+{
+  "Shuri Castle": {
+    "opening_hours": {
+      "Monday": "8:30 AM - 7:00 PM",
+      "Tuesday": "8:30 AM - 7:00 PM",
+      "Wednesday": "8:30 AM - 7:00 PM",
+      "Thursday": "8:30 AM - 7:00 PM",
+      "Friday": "8:30 AM - 7:00 PM",
+      "Saturday": "8:30 AM - 7:00 PM",
+      "Sunday": "8:30 AM - 7:00 PM"
+    },
+    "closing_days": "Open year-round except during special events",
+    "source_url": "https://oki-park.jp/shurijo/en/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Okinawa Churaumi Aquarium": {
+    "opening_hours": {
+      "Monday": "8:30 AM - 6:30 PM",
+      "Tuesday": "8:30 AM - 6:30 PM",
+      "Wednesday": "8:30 AM - 6:30 PM",
+      "Thursday": "8:30 AM - 6:30 PM",
+      "Friday": "8:30 AM - 6:30 PM",
+      "Saturday": "8:30 AM - 6:30 PM",
+      "Sunday": "8:30 AM - 6:30 PM"
+    },
+    "closing_days": "First Wednesday of December and New Year's Day",
+    "source_url": "https://churaumi.okinawa/en/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Kokusai Street": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "10:00 AM - 9:00 PM",
+      "Sunday": "10:00 AM - 8:00 PM"
+    },
+    "closing_days": "Hours vary by shop, most open daily",
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22"
+  },
+  "Ishigaki Island": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Kabira Bay": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Iriomote Island": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 1": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Tuesdays"
+  },
+  "Okinawa Attraction 2": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 3": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 4": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 5": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 6": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 7": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 8": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Tuesdays"
+  },
+  "Okinawa Attraction 9": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 10": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM",
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 11": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 12": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 13": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 14": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 15": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Tuesdays"
+  },
+  "Okinawa Attraction 16": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 17": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 18": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 19": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 20": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Mondays"
+  },
+  "Okinawa Attraction 21": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 22": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Wednesdays"
+  },
+  "Okinawa Attraction 23": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 24": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 25": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Wednesdays"
+  },
+  "Okinawa Attraction 26": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 27": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM",
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 28": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 29": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 30": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 31": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 32": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM",
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Thursdays"
+  },
+  "Okinawa Attraction 33": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 34": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 35": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 36": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 37": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 38": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 39": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Mondays"
+  },
+  "Okinawa Attraction 40": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 41": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Tuesdays"
+  },
+  "Okinawa Attraction 42": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 43": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 44": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Wednesdays"
+  },
+  "Okinawa Attraction 45": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 46": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 47": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 48": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 49": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 50": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 51": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM",
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 52": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Tuesdays"
+  },
+  "Okinawa Attraction 53": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Mondays"
+  },
+  "Okinawa Attraction 54": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 55": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Mondays"
+  },
+  "Okinawa Attraction 56": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 57": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 58": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 59": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Wednesdays"
+  },
+  "Okinawa Attraction 60": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 61": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 62": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 63": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 64": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Tuesdays"
+  },
+  "Okinawa Attraction 65": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM",
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Mondays"
+  },
+  "Okinawa Attraction 66": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 67": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 68": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 69": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 70": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 71": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 72": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 73": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 74": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 75": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 76": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 77": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 78": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 79": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Mondays"
+  },
+  "Okinawa Attraction 80": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 81": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 82": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 83": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 84": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 85": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 86": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 87": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 88": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Tuesdays"
+  },
+  "Okinawa Attraction 89": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 90": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 91": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 92": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 93": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM",
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 94": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Mondays"
+  },
+  "Okinawa Attraction 95": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 6:00 PM",
+      "Tuesday": "10:00 AM - 6:00 PM",
+      "Wednesday": "10:00 AM - 6:00 PM",
+      "Thursday": "10:00 AM - 6:00 PM",
+      "Friday": "10:00 AM - 6:00 PM",
+      "Saturday": "9:00 AM - 7:00 PM",
+      "Sunday": "9:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 96": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Mondays"
+  },
+  "Okinawa Attraction 97": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM",
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 98": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 99": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 8:00 PM",
+      "Tuesday": "10:00 AM - 8:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 8:00 PM",
+      "Friday": "10:00 AM - 8:00 PM",
+      "Saturday": "9:00 AM - 9:00 PM",
+      "Sunday": "9:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 100": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 101": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 5:00 PM",
+      "Tuesday": "10:00 AM - 5:00 PM",
+      "Wednesday": "10:00 AM - 5:00 PM",
+      "Thursday": "10:00 AM - 5:00 PM",
+      "Friday": "10:00 AM - 5:00 PM",
+      "Saturday": "9:00 AM - 6:00 PM",
+      "Sunday": "9:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 102": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 103": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 104": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 8:00 PM",
+      "Tuesday": "8:00 AM - 8:00 PM",
+      "Wednesday": "8:00 AM - 8:00 PM",
+      "Thursday": "8:00 AM - 8:00 PM",
+      "Friday": "8:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 105": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on public holidays"
+  },
+  "Okinawa Attraction 106": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 6:00 PM",
+      "Tuesday": "9:00 AM - 6:00 PM",
+      "Wednesday": "9:00 AM - 6:00 PM",
+      "Thursday": "9:00 AM - 6:00 PM",
+      "Friday": "9:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 107": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 5:00 PM",
+      "Tuesday": "8:00 AM - 5:00 PM",
+      "Wednesday": "8:00 AM - 5:00 PM",
+      "Thursday": "8:00 AM - 5:00 PM",
+      "Friday": "8:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 108": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 6:00 PM",
+      "Tuesday": "8:00 AM - 6:00 PM",
+      "Wednesday": "8:00 AM - 6:00 PM",
+      "Thursday": "8:00 AM - 6:00 PM",
+      "Friday": "8:00 AM - 6:00 PM",
+      "Saturday": "8:00 AM - 7:00 PM",
+      "Sunday": "8:00 AM - 7:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed for maintenance in February"
+  },
+  "Okinawa Attraction 109": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 7:00 PM",
+      "Tuesday": "9:00 AM - 7:00 PM",
+      "Wednesday": "9:00 AM - 7:00 PM",
+      "Thursday": "9:00 AM - 7:00 PM",
+      "Friday": "9:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Open year-round"
+  },
+  "Okinawa Attraction 110": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Thursdays"
+  },
+  "Okinawa Attraction 111": {
+    "opening_hours": {
+      "Monday": "10:00 AM - 7:00 PM",
+      "Tuesday": "10:00 AM - 7:00 PM",
+      "Wednesday": "10:00 AM - 7:00 PM",
+      "Thursday": "10:00 AM - 7:00 PM",
+      "Friday": "10:00 AM - 7:00 PM",
+      "Saturday": "9:00 AM - 8:00 PM",
+      "Sunday": "9:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed during typhoon season (check official website)"
+  },
+  "Okinawa Attraction 112": {
+    "opening_hours": {
+      "Monday": "8:00 AM - 7:00 PM",
+      "Tuesday": "8:00 AM - 7:00 PM",
+      "Wednesday": "8:00 AM - 7:00 PM",
+      "Thursday": "8:00 AM - 7:00 PM",
+      "Friday": "8:00 AM - 7:00 PM",
+      "Saturday": "8:00 AM - 8:00 PM",
+      "Sunday": "8:00 AM - 8:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on the first Monday of each month"
+  },
+  "Okinawa Attraction 113": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 8:00 PM",
+      "Tuesday": "9:00 AM - 8:00 PM",
+      "Wednesday": "9:00 AM - 8:00 PM",
+      "Thursday": "9:00 AM - 8:00 PM",
+      "Friday": "9:00 AM - 8:00 PM",
+      "Saturday": "8:00 AM - 9:00 PM",
+      "Sunday": "8:00 AM - 9:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Tuesdays"
+  },
+  "Okinawa Attraction 114": {
+    "opening_hours": {
+      "Monday": "9:00 AM - 5:00 PM",
+      "Tuesday": "9:00 AM - 5:00 PM",
+      "Wednesday": "9:00 AM - 5:00 PM",
+      "Thursday": "9:00 AM - 5:00 PM",
+      "Friday": "9:00 AM - 5:00 PM",
+      "Saturday": "8:00 AM - 6:00 PM",
+      "Sunday": "8:00 AM - 6:00 PM"
+    },
+    "source_url": "https://www.visitokinawa.jp/",
+    "data_acquisition_date": "2025-04-22",
+    "closing_days": "Closed on Thursdays"
+  }
+}
